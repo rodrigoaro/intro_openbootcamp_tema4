@@ -35,16 +35,16 @@ public class EjerciciosTema4 {
         //Lógica SWITCH
         String estacion = "otoño";
         switch (estacion) {
-            case "Verano":
+            case "verano":
                 System.out.println("La estación actual es verano");
                 break;
-            case "Otoño":
+            case "otoño":
                 System.out.println("La estación actual es otoño");
                 break;
-            case "Invierno":
+            case "invierno":
                 System.out.println("La estación actual es invierno");
                 break;
-            case "Primavera":
+            case "primavera":
                 System.out.println("La estación actual es primavera");
                 break;
             default:
